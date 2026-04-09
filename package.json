@@ -1,0 +1,10 @@
+{
+  "name": "vulnerable-chatbot-demo",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable AI chatbot for testing QualityMax Agent Safety Scan",
+  "private": false,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
