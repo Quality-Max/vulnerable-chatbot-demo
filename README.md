@@ -1,5 +1,9 @@
 # Vulnerable Chatbot Demo
 
+[AI validation guide](https://docs.qualitymax.io/ai-validation/) · [Example directory](https://github.com/Quality-Max/qualitymax/blob/main/docs/examples.md)
+
+This is a deliberately flawed evaluation fixture. Report observed responses and the evaluation criteria separately; the presence of a demo does not establish a completed evaluation result.
+
 > **This chatbot is INTENTIONALLY VULNERABLE.** Every security flaw is deliberate.
 
 A demo AI chatbot with 6 categories of vulnerabilities, built as a testing target for [QualityMax Agent Safety Scan](https://qualitymax.io/agent-safety-scan).
